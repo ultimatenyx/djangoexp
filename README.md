@@ -1,0 +1,2 @@
+# djangoexp
+Experimenting with Django
